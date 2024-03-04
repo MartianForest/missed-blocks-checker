@@ -128,3 +128,7 @@ In theory, it should work on a Cosmos-based blockchains that expose a gRPC endpo
 ## How can I contribute?
 
 Bug reports and feature requests are always welcome! If you want to contribute, feel free to open issues or PRs.
+
+## Additiona Subject by YY Lee
+
+TBD
